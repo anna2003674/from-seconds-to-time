@@ -1,0 +1,22 @@
+{
+  "name": "from-seconds-to-time",
+  "version": "1.0.0",
+  "description": "A simple npm package to convert seconds into HH:MM:SS format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "keywords": [
+    "seconds",
+    "time",
+    "conversion",
+    "hh:mm:ss"
+  ],
+  "author": "Anna Teremizova",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anna2003674/from-seconds-to-time.git"
+  },
+  "homepage": "https://github.com/anna2003674/from-seconds-to-time"
+}
